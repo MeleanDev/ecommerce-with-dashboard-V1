@@ -1,3 +1,4 @@
+![Captura de pantalla (11)](https://github.com/MeleanDev/ecommerce-with-dashboard-V1/assets/154850053/d0b288b1-b943-4d75-9b9a-415c7501ce53)
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
