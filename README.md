@@ -1,10 +1,10 @@
 ![Captura de pantalla (11)](https://github.com/MeleanDev/ecommerce-with-dashboard-V1/assets/154850053/d0b288b1-b943-4d75-9b9a-415c7501ce53)
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+![panel admin](https://img.shields.io/badge/PanelAdmin-blue)
+![Login](https://img.shields.io/badge/Login-008080)
+![Web](https://img.shields.io/badge/SitioWeb-800080)
+
 </p>
 
 ## Ecommerce with Dashboard V1
