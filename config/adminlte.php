@@ -324,7 +324,7 @@ return [
         ],
         [
             'text' => 'Ventas',
-            'route' => '#',
+            'url' => '#',
             'icon' => 'fas fa-money-bill-alt',
             'label' => 'pronto',
             'label_color' => 'danger',
