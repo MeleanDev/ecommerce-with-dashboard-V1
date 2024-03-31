@@ -13,16 +13,14 @@ Este proyecto es un software de ecommerce básico con un panel administrativo. L
 
 - **Subir productos con precio e imágenes.**
 - **Gestionar categorías de productos.**
-- **Ver pedidos y gestionar envíos.**
-- **Ver estadísticas de ventas.**
+- **Gestion de datos de clientes.**
+- **Ver estadísticas.**
 
 ### Página principal del ecommerce:
 - **Mostrar todos los productos disponibles.**
 - **Filtrar productos por categoría.**
 - **Buscar productos por nombre.**
 - **Ver detalles de un producto.**
-- **Añadir productos al carrito de compra.**
-- **Realizar pedidos.**
 - **Suscribirse a la newsletter para recibir notificaciones sobre nuevos productos.**
 
 ## Tecnologías utilizadas:
